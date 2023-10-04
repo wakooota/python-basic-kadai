@@ -1,0 +1,12 @@
+#上辺
+upper = 10
+#下辺
+lower = 20
+#高さ
+hight = 5
+
+#公式：台形の面積 = （上辺+下辺） ×　高さ　÷　2
+
+area = (upper + lower) * hight / 2
+
+print("台形の面積は", area, "cm2です")
